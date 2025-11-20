@@ -100,7 +100,7 @@ While the script is running:
 
 When motion is detected, the output video will show:
 - Green bounding boxes around moving objects
-- Red text "DETECTED MOUVEMENT" at the top
+- Red text "DETECTED MOUVEMENT" at the top (note: the code uses French text)
 - White frame counter at the bottom
 - Final statistics showing the percentage of frames with detected motion
 
